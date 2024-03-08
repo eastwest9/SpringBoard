@@ -18,3 +18,4 @@
 
 ## 4. API명세서
 ## 5. ERD
+![Spring Board ERD](https://github.com/eastwest9/SpringBoard/assets/96916609/1594a420-34b9-46b8-82ab-2d1f0ecd4cf6)
